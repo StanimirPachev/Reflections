@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git starts to track commits and changes to that repository. It is neccesary in order to start version control for your project.
