@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 Git starts to track commits and changes to that repository. It is neccesary in order to start version control for your project.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The stagin area is a a middle part between wd adn the repository. It allows you to add selectively commit only certain files.
