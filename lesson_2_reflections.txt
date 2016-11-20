@@ -1,11 +1,24 @@
 1. What happens when you initialize a repository? Why do you need to do it?
 
-Git starts to track commits and changes to that repository. It is neccesary in order to start version control for your project.
+Git starts to track commits and changes to that repository. It is necessary in order to start version control for your project.
 
 2. How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-The stagin area is a a middle part between wd adn the repository. It allows you to add selectively commit only certain files.
+The staging area is a a middle part between wd adn the repository. It allows you to add selectively commit only certain files.
 
 3.How can you use the staging area to make sure you have one commit per logical change?
 
 The staging area allows you to specifically add the files you logically changed thereby allowing you to commit one logical change per time.
+
+4.What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+They are helpful if you are making a different functionality that you do not want to include yet in the core of your panorama. They help by helping you experiment without affecting main code.
+
+5.How do the diagrams help you visualize the branch structure?
+
+They provide an easy visual representation of difference branchings and the commits.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+all the commits from the branches are merged into the branch. Deleteing the old branch makes the commits inside unavailable.
+
