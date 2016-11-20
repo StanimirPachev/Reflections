@@ -7,3 +7,7 @@ Also if you plan to use the repository form different machines for instance.
 
 Usually we should commit each logical change in a project. As a large enterprise project can have many commits, it is not a good idea to stay up-to-date automatically (on each commit made to the repository)
 as this would be time-consuming and slow.
+
+3.Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A branch is part of a  repository. It contains commits grouped for a logical purpose (master, new feature...). Clone is an operation that downloads a repository to your local machine. A fork on the other hand copies a repository on GitHub from another GitHub repository.
