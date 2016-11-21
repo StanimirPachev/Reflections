@@ -20,3 +20,9 @@ You can fetch and merge changes from the remote made after the last known state 
 
 I would do it via a corporate network where we can share files and versions of files. It would be much easier in terms of speed (no commands to learn, no logic to learn, etc.) but it will get impossible to 
 manage with a big enough project.
+
+6.When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Whenever you are adding a new feature/testing something new and you do not want to affect he master branch you can create a separate branch. The added benefit is that you can also make changes to the branch and then push them to Git Hub.
+From there on you can create a "pull" request form GitHub directly so that your colleagues/supervisor can review and approve them. Using only a master branch is easier in terms of collaboration but definitely you loose the
+approval and review process.
