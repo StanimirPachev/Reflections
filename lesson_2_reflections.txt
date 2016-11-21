@@ -22,3 +22,7 @@ What is the result of merging two branches together? Why do we represent it in t
 
 all the commits from the branches are merged into the branch. Deleteing the old branch makes the commits inside unavailable.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic Merging simplifies and makes more efficient the collaborative programming. The cons could be a ton of merge conflicts which take time to resolve.
+
